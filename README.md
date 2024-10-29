@@ -1,46 +1,37 @@
-# cjbasp4.0
-This is my old school artifact by ASP > 20 years ago. 
+# CJB-ASP Forum 4.0
 
-'*******************************************************************************************
-'*程式名稱：CJB-ASP論壇
-'*程式撰寫：陳家榜(SUPERCJB@MSN.com)
-'*著作所有：Supercjb Studio
-'*版權宣告：程式限非商業行為使用，您可以任意變更
-'*          本程式內容，但是需保留本段版權宣告，
-'*          未經正式書面同意不得逕行收錄販售、書
-'*          籍收錄及其他任何商業行為！		 
-'*******************************************************************************************
-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-
-SUPERCJB的話:
-在現今的網路上到處都可以看到論壇,不管是LB,ATNET,PHPBB,DIUSZ等,
-許許多多的論壇程式,但是大部分都是PHP論壇比較多,ASP除了動網論壇
-以及ATNET以外,可說是非常少的,也沒有真正一套ASP論壇是由台灣人自
-己動手從0到100完全寫出來的,有鑑於此,基於個人的興趣,開始研發ASP
-論壇,也就有CJB-ASP論壇的產生,CJB-ASP目前都是完全免費的,未來也沒
-有考慮要收費,完全是以服務大眾為目的,目前真正的開發人員只有我一個
-人,進度實在是不快,但是大部分的主功能都有了,我很希望有更多想要為社
-會服務的善心人士加入我們CJB-ASP的開發團隊,讓我們一起努力,替台灣
-自製的繁體論壇加入一股新的生命力!
-ps.supercjb個人檔案:
-目前就讀淡江大學電機工程學系,c++,asp,php,javascript,mysql,verilog,vhdl等程式製作
-,目前致力於開發CJB-ASP  MSN:supercjb@msn.com
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=
-CJB-ASP發展狀況:
-目前已經出到第四版CJB-ASP 4.0,完全是由ASP技術來開發
-以後會持續發佈新版程式!~
-◎永久官方站網址 http://cjbasp.adsldns.org
-◎官方備份討論區 http://tw.club.yahoo.com/clubs/CJB-ASP/
-PS.徵求有興趣的人加入開發團隊,我們需要更多有心的人來一起努力(不管是開發配件貨主程式皆可)
-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=
-論壇檢測KNIGHTTHGINK(knihththgink@hotmail.com)的話:
-這是一個相當不錯的ASP論壇，用它來作為一個小型的討論區是在好不過了!
-一些基本的功能都相當的完善.使用起來也是相當的簡單，而且重要的是它是一套"免費"的軟體.
-歡迎大家下載使用!如有瑕疵的地方還請各位蒞臨指正，感謝您的使用。
+This project is an old-school artifact created using ASP over 20 years ago.
 
-This is a pretty good forum.
-It's the best thing just used it to build a discuss place!
-Its function is usefully and simply to work.It's important that it's a "FREE" software.
-Welcome to download and use it! 
-If have any problem or bug please to make a comment and connect us.
-We will solve the problem soon. Thanks 4 your useing! Hope you like it.
-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=
+## About CJB-ASP Forum
+
+CJB-ASP Forum, developed by [supercjb](mailto:supercjb@pie.com.tw), was an early ASP-based forum system aimed at providing a fully free, non-commercial forum solution in Traditional Chinese. Given the rarity of Taiwanese ASP forums, CJB-ASP was a pioneering project intended to serve as a simple, customizable, and freely available discussion platform for small communities.
+
+**Author:** supercjb 
+**Email:** supercjb@pie.com.tw 
+**Original Studio:** Supercjb Studio  
+**License:** Non-commercial use only. Modifications are allowed, but please retain this copyright notice. Commercial usage or inclusion in any sales, publications, or other commercial ventures requires written consent.
+
+## A Word from Supercjb
+
+In today's internet landscape, forums are everywhere, including platforms like LB, ATNET, PHPBB, and DIUSZ. However, PHP-based forums are far more common than ASP-based forums. Outside of limited options like 動網論壇 and ATNET, there were few comprehensive ASP forums available, especially those developed independently by a Taiwanese programmer. CJB-ASP Forum was created out of personal interest and to fill this gap. It remains entirely free with no future plans for monetization and serves the community with a focus on providing robust features for small-scale forums.
+
+I hope to see more people who want to give back to the community join the CJB-ASP development team. Currently, development is a solo effort, which means slower progress, but core functionalities are in place. By working together, we can breathe new life into this fully Taiwanese-made Traditional Chinese forum platform.
+
+**Author Bio:**  
+Currently studying Electrical Engineering at Tamkang University, skilled in C++, ASP, PHP, JavaScript, MySQL, Verilog, VHDL, and other programming languages. Currently dedicated to developing CJB-ASP.
+
+## Development Status
+
+CJB-ASP Forum has reached version 4.0, developed entirely in ASP. Future updates are planned, and the project welcomes new contributors to join the development team.
+
+- **Official Site:** [http://cjbasp.adsldns.org](http://cjbasp.adsldns.org) [ineffective]
+- **Official Backup Forum:** [Yahoo Club - CJB-ASP](http://tw.club.yahoo.com/clubs/CJB-ASP/) [ineffective]
+- **Seeking Contributors:** We're looking for dedicated developers to help expand the project, whether with core development or plugin creation.
+
+## From the Forum Tester, KNIGHTTHGINK (knihththgink@hotmail.com)
+
+CJB-ASP is a solid forum for small discussions. It has all the essential features, is user-friendly, and is free to use. We welcome feedback and contributions from the community to help improve it further. If you encounter any issues, feel free to report them, and we will address them as soon as possible. Thank you for using CJB-ASP, and we hope it meets your forum needs!
+
+---
+
+Thank you for exploring CJB-ASP Forum. We hope you enjoy using this nostalgic piece of software history!
